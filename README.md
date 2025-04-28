@@ -15,7 +15,7 @@ Model ini dibangun menggunakan framework **TensorFlow** dan **Keras**, serta men
 ## Struktur Dataset
 Dataset disusun dalam dua direktori utama:
 - `train/`: Data untuk proses pelatihan model
-- `validation/`: Data untuk proses validasi model
+- `test/`: Data untuk proses pengetesan model
 
 Setiap jenis beras memiliki subfolder tersendiri yang berisi gambar-gambar sesuai kelasnya.
 
